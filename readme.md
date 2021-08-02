@@ -4,7 +4,7 @@ Tips for preparing for a coding interview
 
 1. Build the hard skills
 - get in the habit of regularly doing code challenges
-- good website [leetcode]() [codewar]() [algoexpert]()
+- good website [leetcode](https://leetcode.com/) [codewar](https://www.codewars.com/) [algoexpert](https://www.algoexpert.io/)
 
 2. Don't forget the soft skills
 - Communication skill, leadership skill, drive to learn 
